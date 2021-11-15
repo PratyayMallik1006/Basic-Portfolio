@@ -1,0 +1,31 @@
+.project{
+    display: inline-block;
+    width: 40%;
+    margin: 50px 30px;
+    border: 2px;
+    background-color: white;
+    padding: 10px;
+}
+.profile-image{
+    border-radius: 100%;
+}
+.project-image{
+    width: 80%;
+    padding: 10px;
+    height: 445;
+    
+}
+.middle-container{
+    background-color: #BBE1FA;
+    margin: 0%;
+}
+.top-container{
+    padding-top: 10px;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1rem;
+}
