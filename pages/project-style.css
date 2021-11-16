@@ -2,7 +2,7 @@
     display: inline-block;
     width: 40%;
     margin: 50px 30px;
-    border: 2px;
+    border: 1px solid #0F2A53;
     background-color: white;
     padding: 10px;
 }
@@ -13,7 +13,8 @@
     width: 80%;
     padding: 10px;
     height: 445;
-    
+    border: 2px solid #ddd;
+    background-color: white;
 }
 .middle-container{
     background-color: #BBE1FA;
